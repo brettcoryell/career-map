@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block content %}
+  <main class="hero-section">
+    <div class="container">
+      
+      <div class="section-content">
+        <h2>Showing you the path to the pinnacle.</h2>
+        <a href="{{ url_for('explore') }}" class="btn-primary">Explore</a>
+        <a href="{{ url_for('about') }}" class="btn-secondary">About</a>
+      </div>
+
+      <div class="section-device">
+
+      </div>
+      
+      <div class="clearfix"></div>
+
+    </div>
+  </main>
+{% endblock %}

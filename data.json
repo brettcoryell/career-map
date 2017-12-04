@@ -1,0 +1,659 @@
+[
+  {
+    "JP": "Service Desk Analyst 1",
+    "PF1": "IT Experience",
+    "PF2": "College Graduates (CS, ENG, OMIS)",
+    "PF3": "Customer Support Experience",
+    "PT1": "Application Support Specialist 1",
+    "PT2": "Desktop Support 1",
+    "PT3": "Information Security Analyst 1"
+  },
+  {
+    "JP": "Service Desk Analyst 2",
+    "PF1": "College Graduates (CS, ENG, OMIS)",
+    "PF2": "Service Desk Analyst 1",
+    "PF3": "Specialized IT Support Experience",
+    "PT1": "Application Support Specialist 2",
+    "PT2": "Desktop Support 2",
+    "PT3": "Information Security Analyst 2"
+  },
+  {
+    "JP": "Service Desk Analyst 3",
+    "PF1": "Bachelor Degree in IT",
+    "PF2": "Service Desk Analyst 2",
+    "PF3": "Application Support Specialist 1",
+    "PT1": "Application Support Specialist 3",
+    "PT2": "Desktop Support 3",
+    "PT3": "IT Manager"
+  },
+  {
+    "JP": "Service Desk Analyst 4",
+    "PF1": "Graduate Degree in IT",
+    "PF2": "Service Desk Analyst 3",
+    "PF3": "Desktop Support 2",
+    "PT1": "IT Programmer/Developer",
+    "PT2": "Server/System Administrator",
+    "PT3": "IT Manager"
+  },
+  {
+    "JP": "Computer Operations Specialist 1",
+    "PF1": "High School, Assoc Degree in IT",
+    "PF2": "Service Desk Analyst 1",
+    "PF3": "Service Desk Analyst 2",
+    "PT1": "Computer Operations Specialist 2",
+    "PT2": "Field Services Technician 1",
+    "PT3": "Desktop Support 1"
+  },
+  {
+    "JP": "Computer Operations Specialist 2",
+    "PF1": "College Graduates (CS) + 2 years IT Experience",
+    "PF2": "Field Tech 1",
+    "PF3": "Desktop Support 1",
+    "PT1": "IT Manager",
+    "PT2": "Storage Administrator 1",
+    "PT3": "System Administrator 1"
+  },
+  {
+    "JP": "IT Scheduling Associate 1",
+    "PF1": "High School, Assoc Degree in IT",
+    "PF2": "Service Desk Analyst 1",
+    "PF3": "Computer Operations Specialist 1",
+    "PT1": "IT Scheduling Associate 2",
+    "PT2": "Computer Operations Specialist  2",
+    "PT3": "Applications Support Specialist 1"
+  },
+  {
+    "JP": "IT Scheduling Associate 2",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "IT Scheduling Associate 1",
+    "PF3": "Application Support Specialist 1",
+    "PT1": "Service Desk Analyst 1",
+    "PT2": "IT Scheduling Associate 3",
+    "PT3": "ERP Application Developer 1"
+  },
+  {
+    "JP": "IT Scheduling Associate 3",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "IT Scheduling Associate 2",
+    "PF3": "Application Support Specialist 2",
+    "PT1": "IT Manager",
+    "PT2": "Project Manager 1",
+    "PT3": "Applications Support Specialist 3"
+  },
+  {
+    "JP": "IT Manager",
+    "PF1": "Project Manager 1",
+    "PF2": "Tech Title 3",
+    "PF3": "",
+    "PT1": "Project Manager 2",
+    "PT2": "Tech Title 3",
+    "PT3": ""
+  },
+  {
+    "JP": "Field Services Technician 1",
+    "PF1": "College Graduates (CS)",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "Field Services Technician 2",
+    "PT2": "Broadcast Engineer 1",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Field Services Technician 2",
+    "PF1": "College Graduates (CS) + 2 years IT Experience",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "Field Services Technician 3",
+    "PT2": "Broadcast Engineer 1",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Field Services Technician 3",
+    "PF1": "College Graduates (CS) + 4 years IT Experience",
+    "PF2": "",
+    "PF3": "Field Services Technican 2",
+    "PT1": "Field Services Technican 4",
+    "PT2": "Broadcast Engineer 2",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Field Services Technician 4",
+    "PF1": "College Graduates (CS) + 7 years IT Experience",
+    "PF2": "Field Services Technician 2",
+    "PF3": "Field Services Technician 3",
+    "PT1": "Network Engineer 2",
+    "PT2": "Broadcast Engineer 2",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Broadcast Engineer 1",
+    "PF1": "College Graduates (CS)",
+    "PF2": "SBE Certification",
+    "PF3": "Field Services Technician 3",
+    "PT1": "Broadcast Engineer 2",
+    "PT2": "Network Engineer 2",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Broadcast Engineer 2",
+    "PF1": "College Graduates (CS) + 2 years IT Experience",
+    "PF2": "SBE Certification",
+    "PF3": "Broadcast Engineer 1",
+    "PT1": "Broadcast Engineer 3",
+    "PT2": "Network Engineer 2",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Broadcast Engineer 3",
+    "PF1": "College Graduates (CS) + 4 years IT Experience",
+    "PF2": "SBE Certification",
+    "PF3": "Broadcast Engineer 2",
+    "PT1": "IT Management",
+    "PT2": "Network Engineer 4",
+    "PT3": "Network Engineer 3"
+  },
+  {
+    "JP": "Application Support Specialist 1",
+    "PF1": "Service Desk Analyst 2",
+    "PF2": "Cloud Services Engineer 1",
+    "PF3": "Windows SysAdmin 1",
+    "PT1": "Application Support Specialist 2",
+    "PT2": "Cloud Services Engineer 2",
+    "PT3": "Application Programmer Analyst 1"
+  },
+  {
+    "JP": "Application Support Specialist 2",
+    "PF1": "Application Support Specialist 1",
+    "PF2": "Application Programmer Analyst 1",
+    "PF3": "Windows SysAdmin 2",
+    "PT1": "Application Support Specialist 3",
+    "PT2": "Cloud Services Engineer 3",
+    "PT3": "Application Programmer Analyst 2"
+  },
+  {
+    "JP": "Application Support Specialist 3",
+    "PF1": "Application Support Specialist 2",
+    "PF2": "Application Programmer Analyst 2",
+    "PF3": "Windows SysAdmin 3",
+    "PT1": "Manager",
+    "PT2": "Project Manager 1",
+    "PT3": "Application Programmer Analyst 3"
+  },
+  {
+    "JP": "Application Programmer Analyst 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Application Support Specialist 1",
+    "PF3": "ERP Application Developer 1",
+    "PT1": "Application Programer Analyst 2",
+    "PT2": "ERP Application Developer 1",
+    "PT3": "Infrastructure DBA 1"
+  },
+  {
+    "JP": "Application Programmer Analyst 2",
+    "PF1": "College Graduate + 2 yrs experience",
+    "PF2": "Application Support Specialist 2",
+    "PF3": "ERP Application Developer 2",
+    "PT1": "Application Programer Analyst 3",
+    "PT2": "ERP Application Developer 2",
+    "PT3": "Infrastructure DBA 2"
+  },
+  {
+    "JP": "Application Programmer Analyst 3",
+    "PF1": "College Graduate + 5 yrs experience",
+    "PF2": "Application Support Specialist 3",
+    "PF3": "ERP Application Developer 3",
+    "PT1": "Application Programer Analyst 4",
+    "PT2": "ERP Application Developer 3",
+    "PT3": "Infrastructure DBA 3"
+  },
+  {
+    "JP": "Application Programmer Analyst 4",
+    "PF1": "College Graduate + 7 yrs experience",
+    "PF2": "Application Support Specialist 3",
+    "PF3": "ERP Application Developer 4",
+    "PT1": "Manager",
+    "PT2": "ERP Application Developer 4",
+    "PT3": "Project Manager 1"
+  },
+  {
+    "JP": "Desktop Support 1",
+    "PF1": "High School Grad (PC Experience)",
+    "PF2": "Service Desk Analyst 1",
+    "PF3": "Network Field Service 1",
+    "PT1": "Desktop Support 2",
+    "PT2": "ServiceDesk Analyst 2",
+    "PT3": "Network Field Service 2"
+  },
+  {
+    "JP": "Desktop Support 2",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Service Desk Analyst 3",
+    "PF3": "Desktop Support 1",
+    "PT1": "Desktop Support 3",
+    "PT2": "Security Analyst 1",
+    "PT3": "Application Support 1"
+  },
+  {
+    "JP": "Desktop Support 3",
+    "PF1": "Desktop Support 2",
+    "PF2": "Application Support 2",
+    "PF3": "Service Desk Analyst 4",
+    "PT1": "Desktop Support 4",
+    "PT2": "Windows SysAdmin 1",
+    "PT3": "Network Engineering 1"
+  },
+  {
+    "JP": "Desktop Support 4",
+    "PF1": "Desktop Support 3",
+    "PF2": "Windows SysAdmin 3",
+    "PF3": "Network Engineering 3",
+    "PT1": "Network Engineering 2",
+    "PT2": "Security Analyst 2",
+    "PT3": "Application Support 2"
+  },
+  {
+    "JP": "Classroom and Media Technologist 1",
+    "PF1": "High School Grad",
+    "PF2": "Service Desk Analyst 1",
+    "PF3": "Lab Tech Coordinator",
+    "PT1": "Classroom & Media Technologist 2",
+    "PT2": "Desktop Support 1",
+    "PT3": "Service Desk Analyst 2"
+  },
+  {
+    "JP": "Classroom and Media Technologist 2",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Classroom & Media Technologist 1",
+    "PF3": "Desktop Support 1",
+    "PT1": "Classroom & Media Technologist 3",
+    "PT2": "Desktop Support 2",
+    "PT3": "Security Analyst 1"
+  },
+  {
+    "JP": "Classroom and Media Technologist 3",
+    "PF1": "Classroom & Media Technologist 2",
+    "PF2": "Desktop Support 2",
+    "PF3": "Network Engineering 2",
+    "PT1": "Classroom & Media Technologist 4",
+    "PT2": "Application Support 1",
+    "PT3": "Security Analyst 2"
+  },
+  {
+    "JP": "Classroom and Media Technologist 4",
+    "PF1": "Classroom & Media Technologist 3",
+    "PF2": "Network Engineering 3",
+    "PF3": "Windows SysAdmin 3",
+    "PT1": "Application Support 2",
+    "PT2": "Windows SysAdmin 2",
+    "PT3": "Network Engineering 2"
+  },
+  {
+    "JP": "Project Manager 1",
+    "PF1": "App Support Specialist 2",
+    "PF2": "Service Desk Analyst 2",
+    "PF3": "Desktop Support Specialist 2",
+    "PT1": "Project Manager 2",
+    "PT2": "IT Manager",
+    "PT3": "Service Manager 2"
+  },
+  {
+    "JP": "Project Manager 2",
+    "PF1": "App Support Specialist 3",
+    "PF2": "IT Manager",
+    "PF3": "Project Manager 1",
+    "PT1": "Project Manager 3",
+    "PT2": "IT Manager",
+    "PT3": "IT Director"
+  },
+  {
+    "JP": "Project Manager 3",
+    "PF1": "Masters Degree (MBA, PM)",
+    "PF2": "IT Manager",
+    "PF3": "Project Manager 2",
+    "PT1": "IT Director",
+    "PT2": "IT AVP",
+    "PT3": ""
+  },
+  {
+    "JP": "Training and Testing Specialist 1",
+    "PF1": "Application Support Specialist 1",
+    "PF2": "Desktop Support 1",
+    "PF3": "Service Desk Analyst 1",
+    "PT1": "Training and Testing Specialist 2",
+    "PT2": "Service Desk Analyst 2",
+    "PT3": "Desktop Support 2"
+  },
+  {
+    "JP": "Training and Testing Specialist 2",
+    "PF1": "Application Support Specialist 1",
+    "PF2": "Training and Testing Specialist 1",
+    "PF3": "Service Desk Analyst 2",
+    "PT1": "Training and Testing Specialist 3",
+    "PT2": "Service Desk Analyst 3",
+    "PT3": ""
+  },
+  {
+    "JP": "Training and Testing Specialist 3",
+    "PF1": "Application Support Specialist 2",
+    "PF2": "Training and Testing Specialist 2",
+    "PF3": "Service Manager 1",
+    "PT1": "Training and Testing Specialist 4",
+    "PT2": "Service Desk Analyst 4",
+    "PT3": "Service Manager 2"
+  },
+  {
+    "JP": "Training and Testing Specialist 4",
+    "PF1": "Service Desk Analyst 4",
+    "PF2": "Training and Testing Specialist 3",
+    "PF3": "Service Manager 2",
+    "PT1": "IT Manager",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Service Manager 1",
+    "PF1": "Service Desk Analyst 1",
+    "PF2": "Service Desk Analyst 2",
+    "PF3": "Application Support Specialist 1",
+    "PT1": "Service Manager 2",
+    "PT2": "Project Manager 1",
+    "PT3": "IT Manager"
+  },
+  {
+    "JP": "Service Manager 2",
+    "PF1": "Service Manager 1",
+    "PF2": "Service Desk Analyst 3",
+    "PF3": "Project Manager 1",
+    "PT1": "Service Manager 3",
+    "PT2": "IT Manager",
+    "PT3": "IT Director"
+  },
+  {
+    "JP": "Service Manager 3",
+    "PF1": "Service Manager 2",
+    "PF2": "IT Manager",
+    "PF3": "Service Desk Analyst 4",
+    "PT1": "IT Director",
+    "PT2": "IT AVP",
+    "PT3": ""
+  },
+  {
+    "JP": "ERP Application Developer 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Applications Programmer Analyst 2",
+    "PF3": "Application Support Specialist 2",
+    "PT1": "ERP Application Developer 2",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "ERP Application Developer 2",
+    "PF1": "ERP Application Developer 1",
+    "PF2": "Applications Programmer Analyst 2",
+    "PF3": "Application Support Specialist 2",
+    "PT1": "ERP Application Developer 3",
+    "PT2": "Application Database Administrator 2",
+    "PT3": ""
+  },
+  {
+    "JP": "ERP Application Developer 3",
+    "PF1": "ERP Application Developer 2",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "ERP Application Developer 4",
+    "PT2": "Application Database Administrator 3",
+    "PT3": "IT Manager"
+  },
+  {
+    "JP": "ERP Application Developer 4",
+    "PF1": "ERP Application Developer 3",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "",
+    "PT2": "Application Database Administrator 3",
+    "PT3": "IT Manager"
+  },
+  {
+    "JP": "Infrastructure DBA  1",
+    "PF1": "College Graduates (CS)",
+    "PF2": "Systems Administrator 1",
+    "PF3": "",
+    "PT1": "",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Infrastructure DBA  2",
+    "PF1": "College Graduates (CS)",
+    "PF2": "Systems Administrator 2",
+    "PF3": "",
+    "PT1": "Infrastructure DBA 3",
+    "PT2": "Infrastructure DBA 4",
+    "PT3": ""
+  },
+  {
+    "JP": "Infrastructure DBA  3",
+    "PF1": "Infrastructure DBA 2",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "Infrastructure DBA 4",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Infrastructure DBA  4",
+    "PF1": "Infrastructure DBA 3",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Application DBA 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "",
+    "PF3": "Application DBA 2",
+    "PT1": "Application DBA 3",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Application DBA 2",
+    "PF1": "College Graduates (OMIS,CS) + 2 years IT Experience",
+    "PF2": "ERP Application Developer 2",
+    "PF3": "Applications Programmer Analyst 2",
+    "PT1": "Application DBA 3",
+    "PT2": "Application DBA 4",
+    "PT3": ""
+  },
+  {
+    "JP": "Application DBA 3",
+    "PF1": "Application DBA 2",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "Application DBA 4",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Application DBA 4",
+    "PF1": "Application DBA 3",
+    "PF2": "",
+    "PF3": "",
+    "PT1": "",
+    "PT2": "",
+    "PT3": ""
+  },
+  {
+    "JP": "Systems Administrator 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Desktop Support 2",
+    "PF3": "Application Support Specialist 2",
+    "PT1": "Systems Administrator 2",
+    "PT2": "Information Security Analyst 1",
+    "PT3": "Directory Services Engineer 1"
+  },
+  {
+    "JP": "Systems Administrator 2",
+    "PF1": "Service Desk Analyst 2",
+    "PF2": "Systems Administrator 1",
+    "PF3": "Information Security Analyst 2",
+    "PT1": "Systems Administrator 3",
+    "PT2": "Storage Administrator 1",
+    "PT3": "Cloud Services Engineer 1"
+  },
+  {
+    "JP": "Systems Administrator 3",
+    "PF1": "Network Engineer 3",
+    "PF2": "Systems Administrator 2",
+    "PF3": "Application Programming Analyst 3",
+    "PT1": "Cloud Services Engineer 2",
+    "PT2": "IT Manager",
+    "PT3": "Project Manager 1"
+  },
+  {
+    "JP": "Storage Administrator 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Systems Administrator 2",
+    "PF3": "Desktop Support 2",
+    "PT1": "Storage Administrator 2",
+    "PT2": "Cloud Services Engineer 1",
+    "PT3": "Systems Administrator 1"
+  },
+  {
+    "JP": "Storage Administrator 2",
+    "PF1": "Service Desk Analyst 2",
+    "PF2": "Storage Administrator 1",
+    "PF3": "Application Support Specialist 2",
+    "PT1": "Storage Administrator 3",
+    "PT2": "Cloud Services Engineer 2",
+    "PT3": "Systems Administrator 2"
+  },
+  {
+    "JP": "Storage Administrator 3",
+    "PF1": "Network Engineer 3",
+    "PF2": "Storage Administrator 2",
+    "PF3": "Cloud Services Engineer 2",
+    "PT1": "Network Engineer 3",
+    "PT2": "IT Manager",
+    "PT3": "Project Manager 1"
+  },
+  {
+    "JP": "Cloud Service Engineer 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Directory Service Engineer 1",
+    "PF3": "Systems Administrator 2",
+    "PT1": "Cloud Services Engineer 2",
+    "PT2": "Directory Services Engineer 1",
+    "PT3": "Storage Administrator 1"
+  },
+  {
+    "JP": "Cloud Service Engineer 2",
+    "PF1": "Information Security Analyst 3",
+    "PF2": "Cloud Service Engineer 1",
+    "PF3": "Systems Administrator 3",
+    "PT1": "Cloud Services Engineer 3",
+    "PT2": "Directory Services Engineer 2",
+    "PT3": "Storage Administrator 2"
+  },
+  {
+    "JP": "Cloud Service Engineer 3",
+    "PF1": "Application Programming Analyst 4",
+    "PF2": "Cloud Service Engineer 2",
+    "PF3": "Network Engineer 4",
+    "PT1": "Project Manager 1",
+    "PT2": "IT Manager",
+    "PT3": "Storage Administrator 3"
+  },
+  {
+    "JP": "Directory Service Engineer 1",
+    "PF1": "College Graduates (OMIS,CS)",
+    "PF2": "Cloud Services Engineer 1",
+    "PF3": "Systems Administrator 2",
+    "PT1": "Directory Services Engineer 2",
+    "PT2": "Cloud Services Engineer 1",
+    "PT3": "Storage Administrator 1"
+  },
+  {
+    "JP": "Directory Service Engineer 2",
+    "PF1": "Security Analyst 2",
+    "PF2": "Directory Services Engineer 1",
+    "PF3": "Cloud Services Engineer 2",
+    "PT1": "Directory Services Engineer 3",
+    "PT2": "Cloud Services Engineer 2",
+    "PT3": "Security Analyst 2"
+  },
+  {
+    "JP": "Directory Service Engineer 3",
+    "PF1": "Security Analyst 3",
+    "PF2": "Directory Services Engineer 2",
+    "PF3": "Cloud Services Engineer 3",
+    "PT1": "Information Security Analyst 2",
+    "PT2": "IT Manager",
+    "PT3": "Project Manager 1"
+  },
+  {
+    "JP": "Information Security Analyst 1",
+    "PF1": "Desktop Support 2",
+    "PF2": "Service Desk Analyst 2",
+    "PF3": "Systems Administrator 1",
+    "PT1": "Information Security Analyst 2",
+    "PT2": "Systems Administrator 1",
+    "PT3": "Network Engineer 1"
+  },
+  {
+    "JP": "Information Security Analyst 2",
+    "PF1": "Information Security Analyst 1",
+    "PF2": "Network Engineer 2",
+    "PF3": "Cloud Service Engineer 2",
+    "PT1": "Information Security Analyst 3",
+    "PT2": "Cloud Service Engineer 1",
+    "PT3": "ERP Application Developer 1"
+  },
+  {
+    "JP": "Information Security Analyst 3",
+    "PF1": "Information Security Analyst 2",
+    "PF2": "Network Engineer 3",
+    "PF3": "Systems Administrator 4",
+    "PT1": "Information Security Analyst 4",
+    "PT2": "infosec program manager",
+    "PT3": "Project Manager 1"
+  },
+  {
+    "JP": "Network Engineer 1",
+    "PF1": "Field Services Technician 1",
+    "PF2": "College Graduates (CS, ENG)",
+    "PF3": "Service Desk Analyst 1",
+    "PT1": "Network Engineer 2",
+    "PT2": "Network Engineer 3",
+    "PT3": "Network Engineer 4"
+  },
+  {
+    "JP": "Network Engineer 2",
+    "PF1": "Network Engineer 1",
+    "PF2": "College Graduates (CS, ENG) + 2 yrs experience",
+    "PF3": "Information Security Analyst 2",
+    "PT1": "Network Engineer 3",
+    "PT2": "Network Engineer 4",
+    "PT3": "Manager Network Engineering"
+  },
+  {
+    "JP": "Network Engineer 3",
+    "PF1": "Network Engineer 2",
+    "PF2": "College Graduates (CS, ENG) + 4 yrs experience",
+    "PF3": "Information Security Analyst 3",
+    "PT1": "Network Engineer 4",
+    "PT2": "Manager Networking Engineering",
+    "PT3": "Information Security Analyst 3"
+  },
+  {
+    "JP": "Network Engineer 4",
+    "PF1": "Network Engineer 3",
+    "PF2": "College Graduates (CS, ENG) + 7 yrs experience",
+    "PF3": "Information Security Analyst 4",
+    "PT1": "Project Manager 1",
+    "PT2": "Manager Networking Engineering",
+    "PT3": "Security Analyst 4"
+  }
+]

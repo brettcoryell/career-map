@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<form method=post action="">
+<br>
+<br>
+<table>
+  {% for field in form %}
+    <tr>
+    <td> {{ field.label }} </td><td>{{ field(size=30) }}</td>
+    {% if field.errors %}
+      <td><ul class=errors>
+      {% for error in field.errors %}
+        <li><font color="red">{{ error }}</font></li>
+      {% endfor %}</ul></td>
+    {% endif %}
+    </tr>
+  {% endfor %}
+<tr>
+<td>
+    <p>
+    <input type=submit , class="btn-primary" value=Map>
+        {{ path }}
+</p>
+</td>
+</tr>
+<table>
+<td>
+<p>
+{% if result != None %}
+<img src="data:image/png;base64,{{ result }}"\>
+{% endif %}
+</p>
+</td>
+</table>
+</table>
+</form>
+
+{% endblock %}

@@ -1,8 +1,13 @@
+<!- This is the layout page ->
 <!DOCTYPE html>
 <html>
   <head>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet'>
     <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet">
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js"></script>
+
   </head>
   <body>
     <header>
@@ -12,6 +17,7 @@
     </header>
 
     <div class="container">
+      <! this is  >
     {% block content %}
     {% endblock %}
     </div>

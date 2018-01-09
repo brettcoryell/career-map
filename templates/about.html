@@ -5,7 +5,21 @@
     <div class="container">
 
     <h2>About IT Career Map</h2>
-        <p>Within an IT Department, we have a great many titles and for individual contributors, especially early in their career, it is in no way easy to understand how to move through a career in IT and whether it is possible to become qualified for a particular job without having to pass through other jobs and experiences first.  The IT career map is a combination of visualizations and algorithmic computations that is intended to develop a roadmap and set of recommendations that anyone in IT can use to help find their way from one job and into another.</p>
     </div>
+    
+    <div id="root"></div>
+    <script type="text/babel">
+    //trying to implement react.js in the flask app.
+      class Greeting extends React.Component {
+          render() {
+              return (<p>Within an IT Department, we have a great many titles and for individual contributors, especially early in their career, it is in no way easy to understand how to move through a career in IT and whether it is possible to become qualified for a particular job without having to pass through other jobs and experiences first.  The IT career map is a combination of visualizations and algorithmic computations that is intended to develop a roadmap and set of recommendations that anyone in IT can use to help find their way from one job and into another.</p>
+);
+          }
+      }
+      ReactDOM.render(
+          <Greeting />,
+          document.getElementById('root')
+      );
+      </script>
   </main>
 {% endblock %}
